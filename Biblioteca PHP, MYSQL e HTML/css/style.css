@@ -1,0 +1,21 @@
+.table {
+    border: 1px solid;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.posicionarCabecalho {
+    text-align: center;
+    background-color: #085258;
+}
+
+a {
+    color: rgb(12, 83, 146);
+}
+
+a:link { 
+    text-decoration:none;
+}
+tbody{
+    color: white;
+}
